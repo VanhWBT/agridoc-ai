@@ -17,7 +17,7 @@ Chào mừng đến với Bác sĩ Việt! Hãy tải lên một bức ảnh lá
 uploaded_file = st.file_uploader("Chọn một ảnh lá cây...", type=["jpg", "jpeg", "png"])
 
 # Địa chỉ của "nhà bếp" API
-API_URL = "http://127.0.0.1:5000/predict"
+API_URL = "https://agridoc-ai.onrender.com/predict"
 
 
 # --- QUY TRÌNH "PHỤC VỤ" ---
