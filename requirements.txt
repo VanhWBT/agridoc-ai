@@ -1,22 +1,3 @@
-# ==============================
-# 🌱 Bác Sĩ Cây Trồng - AgriDoc AI
-# ==============================
-
-# --- 🧠 Backend (API Flask) ---
-Flask
-flask-cors          # Cho phép frontend Streamlit gọi API mà không bị lỗi CORS
-gunicorn            # Dùng khi deploy trên Render/Heroku
-tensorflow
-Pillow
-numpy
-
-# --- 🎨 Frontend (Streamlit Web) ---
 streamlit
-requests             # Gửi ảnh từ frontend lên Flask API
-
-# --- 📊 Huấn luyện & Phân tích ---
-matplotlib           # Vẽ biểu đồ accuracy/loss
-opencv-python        # (Tùy chọn) xử lý ảnh nâng cao
-
-# --- ⚙️ Hệ thống ---
-python-dotenv        # (Tùy chọn) để quản lý biến môi trường khi deploy
+requests
+Pillow
