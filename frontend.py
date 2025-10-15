@@ -19,7 +19,6 @@ uploaded_file = st.file_uploader("Chọn một ảnh lá cây...", type=["jpg", 
 # Địa chỉ của "nhà bếp" API
 API_URL = "https://agridoc-ai.onrender.com/predict"
 
-
 # --- QUY TRÌNH "PHỤC VỤ" ---
 
 if uploaded_file is not None:
