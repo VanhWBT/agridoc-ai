@@ -7,7 +7,7 @@ import io
 
 # Đặt tên cho "quán ăn"
 st.set_page_config(page_title="Bác Sĩ Cây Trồng", page_icon="🌿")
-st.title(" 👨‍⚕️Mộc Sĩ Thông Thái")
+st.title(" 👨‍⚕️Khang là môt con đĩ")
 st.write("""
 Chào mừng đến với Bác sĩ Cây! Hãy tải lên một bức ảnh lá sầu riêng, 
 người hiểu biết nhất về lĩnh vự này sẽ chẩn đoán bệnh giúp bạn.
