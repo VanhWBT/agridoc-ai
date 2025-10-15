@@ -17,7 +17,7 @@ người hiểu biết nhất về lĩnh vự này sẽ chẩn đoán bệnh gi�
 uploaded_file = st.file_uploader("Chọn một ảnh lá cây...", type=["jpg", "jpeg", "png"])
 
 # Địa chỉ của "nhà bếp" API
-API_URL = "https://agridoc-ai-1.onrender.com/predict"
+API_URL = "https://agridoc-ai-1.onrender.com"
 
 # --- QUY TRÌNH "PHỤC VỤ" ---
 
